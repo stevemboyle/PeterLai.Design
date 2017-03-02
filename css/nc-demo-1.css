@@ -1,0 +1,92 @@
+/*
+***************************************************************
+* PROJECT : NC-Grip Multiuse Coming-Soon Page
+* AUTHOR : NCodeArt
+***************************************************************
+*/
+
+/**
+*****************************************************************
+* This file is licensed to NCodeArt. 
+* it's not allowed to copy or reuse it Copyright NCodeArt 2015-2016
+*****************************************************************
+*/
+
+#main-wrapper > .bg-section { background-image: none!important; background-color: #fafafa; }
+body.nc-layout-1 #main-wrapper .transition-wrapper { 
+	opacity: 1 !important; 
+	background-image: url(../images/nc-bg-14.jpg); 
+}
+
+.btn-glass { background-color: #fff; color: rgba(0,0,0,0.75); }
+.btn-glass:hover { background-color: #12c5ce; color: #fff; }
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.navigation-wrapper .nav-link,
+.social-icons .icon-link,
+.about-wrapper-1 .left-part,
+.clock.clock-1 {
+	color: rgba(255,255,255,0.75);
+}
+
+.home-wrapper-1 .text-animation .hd-text .main-text,
+.navigation-wrapper .nav-link:hover,
+.social-icons .icon-link:hover,
+.title .icon,
+.info-box-1 .image,
+#ajax-page .close-button,
+.team-box-1 .detail .small-text,
+.form-widget-1 .form-group .icon,
+.clock.clock-1 .countdown-widget .dash_title,
+.contact-box-1 .icon,
+.contact-box-1:hover .detail p, 
+.contact-box-1:hover .detail a,
+.home-wrapper-2 .text-animation .hd-text .main-text,
+.home-wrapper-3 .text-animation .hd-text .main-text,
+.home-wrapper-4 .text-animation .hd-text .main-text,
+.portfolio-box1 .pop-img, 
+.portfolio-box1 .pop-link, 
+.portfolio-box1 .link-wrp a { 
+	color: #12c5ce; 
+}
+
+.title hr,
+.home-wrapper-1 .text-animation .hd-text,
+.navigation-wrapper .nav-link,
+.info-box-1 .detail .hd,
+.about-wrapper-1 .right-part,
+.team-box-1 .detail .hd,
+.team-box-1 .social-icons {
+	border-color: rgba(255,255,255,0.15);
+}
+
+.title .sub,
+.info-box-1 .detail .text,
+.team-box-1 .detail .text {
+	color: rgba(255,255,255,0.65);
+}
+
+.form-widget .form-control { background-color: rgba(0,0,0,0.2); border-color: rgba(0,0,0,0.2); }
+.form-widget .form-control:focus { border-color: #12c5ce;  }
+
+.popup-block-1 { background-color: #fff; }
+.popup-block-1 .title .hd { color: rgba(0,0,0,0.75); }
+.popup-block-1 .title .sub { color: #000; }
+.popup-block-1 .title hr { border-color: rgba(0,0,0,0.2); }
+.mfp-close-btn-in .mfp-close { color: rgba(0,0,0,0.75); }
+.popup-block-1 .form-widget .form-control { background-color: rgba(0,0,0,0.75); }
+
+.home-wrapper-2 .text-animation .hd-text,
+.home-wrapper-3 .text-animation .hd-text,
+.home-wrapper-4 .text-animation .hd-text { background-color: rgba(0,0,0,0.2); }
+
+.team-box-1 { background-color: rgba(0,0,0,0.2); }
+.clock.clock-1 .countdown-widget .dash { background-color: rgba(0,0,0,0.2); }
+
+.contact-box-1 { background-color: rgba(0,0,0,0.3); }
+
+.portfolio-box1 .pop-img, 
+.portfolio-box1 .pop-link, 
+.portfolio-box1 .link-wrp a { border-color: #12c5ce; }
+.portfolio-box1 .pop-img:hover { background-color: #12c5ce; color: #000; }
